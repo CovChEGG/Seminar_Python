@@ -21,7 +21,6 @@ def calc(a, b, action):
             res = a % b
         elif action == '//':
             res = a // b
-
     return whole_numbers(res)
 
 
